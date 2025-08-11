@@ -37,7 +37,7 @@ Fiora Editor is a modern-looking prototype video editor GUI built with Python's 
 - **Prototype only:** Intended as a UI/UX demonstration and starting point for a full editor.
 
 ## Screenshots
-*(Add screenshots here if available)*
+![UI Screenshot](ui_1.png)
 
 ## License
 This project is provided as-is for educational and prototyping purposes.
